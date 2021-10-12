@@ -101,5 +101,10 @@ a {
     .container img {
         max-width: 100%;
     }
-    
+    .sommer21 h1 {
+        font-size: 36px;
+    }
+    .container img {
+    width: 300px;
+    }
 }
