@@ -89,6 +89,8 @@ a {
 @media (max-width: 768px) {
     body {
         max-width: 100%;
+        margin-left: 50%;
+        margin-right: 50%;
     }
     .header img {
         max-width: 100%;
@@ -96,15 +98,10 @@ a {
     }
 }
 
-@media (max-width: 768px) {
-    
-    .flex-container {
-        flex-direction: column;
-    }  
-}
+
 @media (max-width: 768px) {
     .container-btns button {
-        padding: 5px 100px;
+        padding: 10px 80%;
     }
 }
 
