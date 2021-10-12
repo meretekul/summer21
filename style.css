@@ -96,7 +96,7 @@ a {
 
 @media (max-width: 768px) {
     .header img {
-        max-width: 100%;
+        background: cover;
     }
     .container img {
         max-width: 100%;
