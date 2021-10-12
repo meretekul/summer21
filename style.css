@@ -95,17 +95,9 @@ a {
 }
 
 @media (max-width: 768px) {
-    .header img {
-        background: cover;
-    }
     .container img {
         max-width: 100%;
-    }
-    .sommer21 h1 {
-        font-size: 36px;
-    }
-    .container img {
-    width: 300px;
+        width: 300px; 
     }
 }
 
