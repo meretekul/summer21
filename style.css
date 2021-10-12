@@ -95,14 +95,18 @@ a {
 }
 
 @media (max-width: 768px) {
-    .container img {
-        max-width: 100%;
-        width: 300px; 
+    
+    .flex-container {
+        flex-direction: column;
     }
+    .container img {
+        width: 200px;
+    }
+    
 }
 
 @media (max-width: 768px) {
     .container-btns button {
-        padding: 20%;
+        display: block;
     }
 }
