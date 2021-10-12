@@ -99,14 +99,8 @@ a {
     .flex-container {
         flex-direction: column;
     }
-    .container img {
-        width: 200px;
-    }
+    
     
 }
 
-@media (max-width: 768px) {
-    .container-btns button {
-        display: block;
-    }
-}
+
