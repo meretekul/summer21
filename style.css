@@ -85,3 +85,21 @@ a {
     text-decoration: none;
     color: black;
 }
+
+@media (max-width: 768px) {
+    body {
+        margin-left: 50%;
+        margin-right: 50%;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .header img {
+        max-width: 100%;
+    }
+    .container img {
+        max-width: 100%;
+    }
+    
+}
